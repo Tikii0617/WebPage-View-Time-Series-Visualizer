@@ -5,8 +5,9 @@ Analysis of the freeCodeCamp (FCC) forum page views is required to understand pa
 
 ## Dataset
 The dataset comprises daily page views on the FCC forum from May 2016 to December 2019, with a total of 1304 records and 2 columns.
+To refine the dataset, days with page views in the top 2.5% and bottom 2.5% were filtered out, resulting in a cleaned dataset comprising 1238 records and 2 columns.
 
-<img width="150" alt="image" src="https://github.com/Tikii0617/WebPage-View-Time-Series-Visualizer/blob/main/time_serie_visualizer/img/4.png"> 
+<img width="150" alt="image" src="https://github.com/Tikii0617/WebPage-View-Time-Series-Visualizer/blob/main/time_serie_visualizer/img/Screenshot%202023-12-10%20at%2012.59.48.png">
 
 ## Data Analysis
 The data contains information about the number of page views per day, allowing for the analysis of trends and patterns.
